@@ -9,4 +9,3 @@ branches:
   - master
 before_install:
   - rvm use system
-  - pod repo update
