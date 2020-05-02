@@ -9,6 +9,4 @@ branches:
   - master
 before_install:
   - rvm use system
-  - gem install xcpretty
-  - gem install cocoapods 
   - pod repo update
